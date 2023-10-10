@@ -10,8 +10,8 @@
 # The successor to IPv4 is IPv6, which was formalized by the IETF in 1998. It was designed to eventually replace IPv4. As of 2018, IPv6 governs approximately 20% of all Internet traffic.
 
 
-Class	Address range	Supports
-Class A	1.0.0.1 to 126.255.255.254	Supports 16 million hosts on each of 127 networks.
+Class	  Address         range	                Supports
+Class A	1.0.0.1 to 126.255.255.254	    Supports 16 million hosts on each of 127 networks.
 Class B	128.1.0.1 to 191.255.255.254	Supports 65,000 hosts on each of 16,000 networks.
 Class C	192.0.1.1 to 223.255.254.254	Supports 254 hosts on each of 2 million networks.
 Class D	224.0.0.0 to 239.255.255.255	Reserved for multicast groups.
